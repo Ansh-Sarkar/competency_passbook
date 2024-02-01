@@ -1,5 +1,7 @@
 # competency_passbook
 
+**Developed as a project during the C4GT 2022 Program**
+
 A distributed competency tracking LMS based on Digital Signatures for issuing/distributing of Verifiable Credentials (VCs) and secure data access via Verifiable Presentations (VPs).
 
 | Topic                 | Resource                                                                                                                  |
